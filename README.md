@@ -13,7 +13,7 @@ I tried to complete one section every day... some days I was able to do 2 sectio
  - [x] **MiCard - How to Build Beautiful UIs with Flutter Widgets**
  - [x] **Dicee - Building Apps with State**
  - [x] **Boss Level Challenge 1 - Magic 8 Ball**
- - [ ] **Xylophone - Using Flutter and Dart Packages to Speed Up Development**
+ - [X] **Xylophone - Using Flutter and Dart Packages to Speed Up Development**
  - [ ] **Quizzler -Modularising & Organising Flutter Code**
  - [ ] **Boss Level Challenge 2 - Destini**
  - [ ] **BMI Calculator - Building Flutter UI for Intermediates**
@@ -58,6 +58,12 @@ A dice app if you ever lose the dice for monopoly. Introduction to States and fu
 
 I was able to create this App on my own after creating Dicee. This app changes state every time it's clicked, a new number between 1-5 is generated and then the corresponding image is displayed. 
 
+
+## Xylophone
+
+![FlutterXylophoneDemo](https://user-images.githubusercontent.com/25858828/163802695-d81bba4d-58d9-476b-a6d9-e0c6f0e447a6.gif)
+
+A app that makes different Xylophone sound when you click each key.
 
 # Conclusion 
 I have not finished the course yet... this will be written when I complete the course. 
